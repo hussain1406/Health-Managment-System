@@ -1,0 +1,16 @@
+{
+  "name": "health-managment-system",
+  "version": "1.0.0",
+  "description": "A simple Health Managment System",
+  "main": "main.py",
+  "scripts": {
+    "test": "python3 main.py"
+  },
+  "keywords": [
+    "health",
+    "managment",
+    "system"
+  ],
+  "author": "Syed Muhammad Hussain",
+  "license": "ISC"
+}
